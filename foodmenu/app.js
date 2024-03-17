@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 // Connection URI
-const uri = 'mongodb+srv://dummyuser:dummyuser123@cluster0.qdu2zef.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const uri = "YOUR URI HERE";
 // Database Name
 const dbName = 'test';
 // Collection Name for food items
